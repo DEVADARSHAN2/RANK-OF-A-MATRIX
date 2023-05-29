@@ -14,8 +14,8 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4: 
 End the program
 ## Program:
-###Name: Devadarshan A S
-###Register no: 212222110007
+## Name: Devadarshan A 
+## Register no: 212222110007
 ```python
 import numpy as np
 a=np.array([[1,2,3],[3,6,9]])
