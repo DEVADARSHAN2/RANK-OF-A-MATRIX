@@ -14,17 +14,15 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4: 
 End the program
 ## Program:
-```
-Rank of a matrix
-Name: Soundariyan M N
-Register no: 22008347
-```
-```python
+
 import numpy as np
 a=np.array([[1,2,3],[3,6,9]])
 b=np.linalg.matrix_rank(a)
 print(b)
-```
+
+Rank of a matrix
+Name: Devadarshan A S
+Register no: 212222110007
 ## Output:
 ![image](https://github.com/DEVADARSHAN2/RANK-OF-A-MATRIX/assets/119432150/46b7204b-ecc4-4cc6-98fe-c049d52a4e60)
 
