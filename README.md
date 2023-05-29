@@ -25,8 +25,7 @@ print(b)
 
 
 ## Output:
-![image](https://github.com/DEVADARSHAN2/RANK-OF-A-MATRIX/assets/119432150/46b7204b-ecc4-4cc6-98fe-c049d52a4e60)
-
+![image](https://github.com/DEVADARSHAN2/RANK-OF-A-MATRIX/assets/119432150/0c3cada6-20eb-4cbf-a9ca-6af8508d78cf)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
